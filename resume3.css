@@ -1,0 +1,46 @@
+body{
+    margin: 0 px;
+    padding: 0px;
+}
+.container{
+    margin: 0 auto;
+    width: 600px;
+    height: 800px;
+    position: relative;
+}
+h6{
+font-size: 50px;
+}
+#header{
+    background-color: black;
+    color: white;
+    height: 150px;
+    text-align: center;
+}
+#ht{
+      
+}
+#me{
+    font-style: italic;
+    font-size: 20px;
+}
+#ft{
+    margin-top: 20px;
+    text-align: center;
+}
+h4{
+    font-size: 3px;
+}
+#main{
+    background-color: white;
+    color: black;
+    height:400px;
+    position: relative;
+    font-size: 30px;
+    
+}
+#footer{
+    background-color: black;
+    color: white;
+    height: 350px;
+}
